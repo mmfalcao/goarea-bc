@@ -1,4 +1,4 @@
-package goarea-bc
+package goarea_bc
 
 import "math"
 
